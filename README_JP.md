@@ -458,6 +458,13 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/NSaviour">
+                    <img src="https://avatars.githubusercontent.com/u/16055069?v=4" width="90;" alt="NSaviour"/>
+                    <br />
+                    <sub><b>NSaviour</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/princemaple">
                     <img src="https://avatars.githubusercontent.com/u/1329716?v=4" width="90;" alt="princemaple"/>
                     <br />
@@ -492,6 +499,8 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Hyzhao</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/lakca">
                     <img src="https://avatars.githubusercontent.com/u/16255922?v=4" width="90;" alt="lakca"/>
@@ -499,8 +508,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Null</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/liudonghua123">
                     <img src="https://avatars.githubusercontent.com/u/2276718?v=4" width="90;" alt="liudonghua123"/>
